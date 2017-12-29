@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/SunnyQjm/CircularFloatingActionMenu.svg)](https://jitpack.io/#SunnyQjm/CircularFloatingActionMenu)
+
 # CircularFloatingActionMenu
 
 <img src="assets/circularfab.gif">
